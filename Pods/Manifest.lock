@@ -1,0 +1,15 @@
+PODS:
+  - LBTAComponents (1.0.1)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - LBTAComponents
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  LBTAComponents: 94d833ef9d8c9fdb45f5dbb90385c29c4e171733
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: a63f2d24ca450380a7f631d6d3f300ba3a1640ee
+
+COCOAPODS: 1.4.0
